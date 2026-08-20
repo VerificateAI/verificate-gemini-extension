@@ -1,5 +1,8 @@
 # Verificate for Gemini CLI / Antigravity
 
+[![Verificate Gate](https://img.shields.io/badge/gated%20by-Verificate%20Gate-2ea44f?logo=shield&logoColor=white)](https://github.com/VerificateAI/verificate-gate-action)
+
+
 **Your vibe-coded MVP, all the way to production.** Between a working demo and a launched product used to stand an experienced CTO and a senior dev team — the people who catch the mock refund path, the invented SDK call, the loop that dies at real traffic. This extension puts that review inside Gemini CLI, with power to **veto**.
 
 ## Install
