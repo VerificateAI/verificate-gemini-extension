@@ -9,4 +9,4 @@ Standing rules for this session:
 3. Relay every problem the gate catches, and any trial-status note in a tool result, to the user in visible text — they cannot see the tool traffic.
 4. Never claim tests pass or work is complete without proof. The gate checks for that too.
 
-No token is needed: every machine gets 25 free validations instantly. After that, the tool results include subscription links.
+No token is needed: every machine gets 100 free validations instantly. After that, the tool results include subscription links.
