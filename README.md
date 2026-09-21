@@ -8,10 +8,10 @@
 ## Install
 
 ```bash
-gemini extensions install https://github.com/Verificate-Dev/verificate-gemini-extension
+gemini extensions install https://github.com/VerificateAI/verificate-gemini-extension
 ```
 
-That's it. **25 free validations per machine — no account, no card, no token.** The extension connects to the hosted Verificate MCP server (`https://mcp.verificate.ai/mcp`) and adds a standing rule so Gemini validates substantive changes before presenting them as done.
+That's it. **100 free validations per machine — no account, no card, no token.** The extension connects to the hosted Verificate MCP server (`https://mcp.verificate.ai/mcp`) and adds a standing rule so Gemini validates substantive changes before presenting them as done.
 
 ## What you get
 
@@ -24,7 +24,7 @@ That's it. **25 free validations per machine — no account, no card, no token.*
 
 A real rejection, verbatim from the production gateway: *"N+1 synchronous API calls … will trigger Stripe rate limiting (100 req/sec limit)"* · *"`stripe.Inventory` is not a valid Stripe SDK resource"* · *"Stripe API requires integer cents."* Each of those is an afternoon of production debugging, caught in seconds.
 
-## Keep going after the free 25
+## Keep going after the free 100
 
 Sign up at <https://verificate.ai/auth/signup> (30-day trial, no card — then $30/mo) and add your token to the extension's server config:
 
@@ -43,4 +43,4 @@ Code you validate is analyzed, never executed, and never used to train models. P
 
 ---
 
-Main repo (all clients, one-click installs): [Verificate-Dev/verificate-mcp-quickstart](https://github.com/Verificate-Dev/verificate-mcp-quickstart) · Website: <https://verificate.ai/mcp>
+Main repo (all clients, one-click installs): [VerificateAI/verificate-mcp-quickstart](https://github.com/VerificateAI/verificate-mcp-quickstart) · Website: <https://verificate.ai/mcp>
