@@ -17,7 +17,7 @@ That's it. **100 free validations per machine — no account, no card, no token.
 
 | Tool | Job |
 |---|---|
-| `validate_ai_output` | The merge gate for AI-written code **and documents** — 17 deterministic reality gates (any one can veto), then a frontier-model enterprise review. Binary approve/reject with severity-ranked findings. |
+| `validate_ai_output` | The merge gate for AI-written code **and documents** — deterministic veto checks (mocks and placeholders, reward-gamed tests, invented standard-library APIs, secrets in logs, false-completion claims) (any one can veto), then a Claude Haiku 5.5 review (ISO/IEC 25010, ISO/IEC 5055). One decision with severity-ranked findings and a receipt. |
 | `validate_plan` | The same gate for plans and designs, before any code exists. |
 | `analyze_code` | Advisory deep-dive — performance hot paths, scalability cliffs, failure modes. No verdict, never blocks. |
 | `generate_code` | Generate + gate in one step. |

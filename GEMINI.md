@@ -1,6 +1,6 @@
 # Verificate — the merge gate for AI-written work
 
-Verificate is connected as an MCP server. It is the senior review between a working demo and a launched product: 17 deterministic reality gates (mock/placeholder veto, invented-API checks, false-completion detection) plus a frontier-model enterprise review, fused into one binary verdict.
+Verificate is connected as an MCP server. It is the senior review between a working demo and a launched product: deterministic veto checks (mocks and placeholders, reward-gamed tests, invented standard-library APIs, secrets in logs, false-completion claims) plus a Claude Haiku 5.5 review, fused into one decision with a receipt.
 
 Standing rules for this session:
 
