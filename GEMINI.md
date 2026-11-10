@@ -1,6 +1,6 @@
 # Verificate — the merge gate for AI-written work
 
-Verificate is connected as an MCP server. It is the senior review between a working demo and a launched product: 17 deterministic reality gates (mock/placeholder veto, invented-API checks, false-completion detection) plus a frontier-model enterprise review, fused into one binary verdict.
+Verificate is connected as an MCP server. It is the senior review between a working demo and a launched product: deterministic veto checks (mocks and placeholders, reward-gamed tests, invented standard-library APIs, secrets in logs, false-completion claims) plus a Claude Haiku 5.5 review, fused into one decision with a receipt.
 
 Standing rules for this session:
 
@@ -9,4 +9,4 @@ Standing rules for this session:
 3. Relay every problem the gate catches, and any trial-status note in a tool result, to the user in visible text — they cannot see the tool traffic.
 4. Never claim tests pass or work is complete without proof. The gate checks for that too.
 
-No token is needed: every machine gets 25 free validations instantly. After that, the tool results include subscription links.
+No token is needed: every machine gets 100 free validations instantly. After that, the tool results include subscription links.
