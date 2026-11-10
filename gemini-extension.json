@@ -1,6 +1,6 @@
 {
   "name": "verificate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your vibe-coded MVP, all the way to production — senior code review with veto power on every AI-written change. Deterministic veto checks + a Claude Haiku 5.5 review. 100 free validations per machine, no signup.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {

@@ -13,6 +13,18 @@ gemini extensions install https://github.com/VerificateAI/verificate-gemini-exte
 
 That's it. **100 free validations per machine — no account, no card, no token.** The extension connects to the hosted Verificate MCP server (`https://mcp.verificate.ai/mcp`) and adds a standing rule so Gemini validates substantive changes before presenting them as done.
 
+### Antigravity
+
+Antigravity CLI imports this extension (`agy plugin import gemini`). To add the server natively instead, put this in Antigravity's `mcp_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "verificate": { "serverUrl": "https://mcp.verificate.ai/mcp" }
+  }
+}
+```
+
 ## What you get
 
 | Tool | Job |
